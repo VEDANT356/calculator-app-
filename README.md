@@ -31,3 +31,6 @@ This project was built to practice:
 - JavaScript logic building
 - DOM manipulation
 - Event handling
+
+___author :- 
+VEDANT KOTKAR
