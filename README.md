@@ -1,6 +1,6 @@
 # 🧮 Calculator App
 
-A simple and responsive Calculator built using HTML, CSS, and JavaScript.
+A simple and responsive Calculator built using HTML, CSS, and JavaScript.web-based calculator designed for a seamless mathematical experience. Beyond simple arithmetic, it focuses on modern UI aesthetics, keyboard accessibility, and robust error handling for complex calculations.
 
 ## 🚀 Features
 
