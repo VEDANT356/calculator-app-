@@ -1,36 +1,63 @@
-# 🧮 Calculator App
+🧮 Calculator App
 
-A simple and responsive Calculator built using HTML, CSS, and JavaScript.web-based calculator designed for a seamless mathematical experience. Beyond simple arithmetic, it focuses on modern UI aesthetics, keyboard accessibility, and robust error handling for complex calculations.
+A modern, responsive web-based Calculator built using HTML, CSS, and Vanilla JavaScript.
+Designed for a seamless mathematical experience, this project goes beyond basic arithmetic by focusing on clean UI design, keyboard accessibility, and robust error handling.
 
-## 🚀 Features
+🚀 Features
 
-- Basic arithmetic operations (+, −, ×, ÷)
-- Clear (AC) button
-- Responsive design
-- Clean UI
-- Instant result display
+✅ Perform basic arithmetic operations (+, −, ×, ÷)
+✅ Clear All (AC) functionality
+✅ Real-time result display
+✅ Keyboard support for faster input
+✅ Error handling for invalid expressions
+✅ Fully responsive layout (mobile-friendly)
+✅ Minimal and modern UI design
 
-## 🛠️ Technologies Used
+🛠️ Tech Stack
 
-- HTML
-- CSS
-- JavaScript (DOM Manipulation)
+HTML5 – Structure
 
-## 📂 How to Run
+CSS3 – Styling & Responsive Design
 
-1. Clone the repository
-2. Open `index.html` in your browser
+JavaScript (Vanilla JS) – Logic, DOM Manipulation & Event Handling
 
-## 📸 Preview
+🧠 Core Concepts Demonstrated
 
-(Add screenshot here)
+DOM Selection & Manipulation
 
-## 📌 Project Purpose
+Event Handling (click & keyboard events)
 
-This project was built to practice:
-- JavaScript logic building
-- DOM manipulation
-- Event handling
+Conditional Logic & Expression Evaluation
+
+Error Handling & Input Validation
+
+Responsive UI Design Principles
+▶️ How to Run Locally
+
+Clone the repository
+
+Navigate to the project folder
+
+Open index.html in your browser
+
+🎯 Project Purpose
+
+This project was built to strengthen my understanding of:
+
+JavaScript logic building
+
+DOM manipulation
+
+Event-driven programming
+
+Writing clean and structured frontend code
+
+🔮 Future Improvements
+
+🚧 Add scientific calculation functions (%, √, x²)
+🚧 Add dark/light theme toggle
+🚧 Improve animation transitions
+🚧 Add calculation history panel
 
 ___author :- 
 VEDANT KOTKAR
