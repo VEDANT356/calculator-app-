@@ -1,38 +1,95 @@
 🧮 Calculator App
 
-A modern, responsive web-based Calculator built using HTML, CSS, and Vanilla JavaScript.
-Designed for a seamless mathematical experience, this project goes beyond basic arithmetic by focusing on clean UI design, keyboard accessibility, and robust error handling.
+A modern, responsive, and interactive web-based Calculator built using HTML, CSS, and Vanilla JavaScript.
+
+This project goes beyond basic arithmetic by focusing on clean UI design, keyboard accessibility, real-time updates, and robust error handling — delivering a smooth and intuitive mathematical experience.
 
 🚀 Features
+➕ Core Arithmetic Operations
 
-✅ Perform basic arithmetic operations (+, −, ×, ÷)
-✅ Clear All (AC) functionality
-✅ Real-time result display
-✅ Keyboard support for faster input
-✅ Error handling for invalid expressions
-✅ Fully responsive layout (mobile-friendly)
-✅ Minimal and modern UI design
+Addition (+)
+
+Subtraction (−)
+
+Multiplication (×)
+
+Division (÷)
+
+🔄 Real-Time Result Display
+
+Instant calculation updates for smooth user interaction.
+
+⌨️ Keyboard Support
+
+Supports keyboard input for faster and more accessible calculations.
+
+🧹 Clear & Reset Functions
+
+AC (All Clear)
+
+Expression reset handling
+
+⚠️ Error Handling
+
+Gracefully handles:
+
+Invalid expressions
+
+Division by zero
+
+Unexpected input
+
+📱 Fully Responsive Layout
+
+Optimized for:
+
+📱 Mobile
+
+📲 Tablet
+
+💻 Desktop
+
+🎨 Minimal & Modern UI
+
+Clean interface with intuitive button layout and balanced spacing.
 
 🛠️ Tech Stack
 
-HTML5 – Structure
+HTML5 – Structured Layout
 
 CSS3 – Styling & Responsive Design
 
-JavaScript (Vanilla JS) – Logic, DOM Manipulation & Event Handling
+Vanilla JavaScript – Logic, DOM Manipulation & Event Handling
 
 🧠 Core Concepts Demonstrated
 
 DOM Selection & Manipulation
 
-Event Handling (click & keyboard events)
+Event Handling (Click & Keyboard Events)
 
-Conditional Logic & Expression Evaluation
+Expression Evaluation Logic
+
+Conditional Statements
 
 Error Handling & Input Validation
 
-Responsive UI Design Principles
-▶️ How to Run Locally
+Responsive Design Principles
+
+State Management through UI updates
+
+⚙️ Application Workflow
+
+User clicks buttons or types using keyboard.
+
+Input is appended dynamically to the display.
+
+JavaScript evaluates the mathematical expression.
+
+Result is rendered instantly.
+
+Errors are handled gracefully without breaking UI.
+
+▶️ Run Locally
 
 Clone the repository
 
@@ -40,24 +97,36 @@ Navigate to the project folder
 
 Open index.html in your browser
 
-🎯 Project Purpose
+🎯 Project Objective
 
-This project was built to strengthen my understanding of:
+This project was built to strengthen:
 
 JavaScript logic building
 
-DOM manipulation
+DOM manipulation skills
 
-Event-driven programming
+Event-driven programming concepts
 
-Writing clean and structured frontend code
+Writing structured and maintainable frontend code
 
 🔮 Future Improvements
 
-🚧 Add scientific calculation functions (%, √, x²)
-🚧 Add dark/light theme toggle
-🚧 Improve animation transitions
-🚧 Add calculation history panel
+➗ Scientific Functions ( %, √, x² )
 
-___author :- 
-VEDANT KOTKAR
+🌙 Dark / Light Mode Toggle
+
+🧾 Calculation History Panel
+
+✨ Improved UI animations & micro-interactions
+
+🔢 Decimal precision handling
+
+📌 Project Status
+
+🟢 Fully Functional
+🔄 Open for Enhancements
+
+👨‍💻 Author
+
+Vedant Kotkar
+Computer Science Student | Frontend Developer
