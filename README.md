@@ -1,132 +1,119 @@
-🧮 Calculator App
+# 🧮 CALCULATOR APP
 
-A modern, responsive, and interactive web-based Calculator built using HTML, CSS, and Vanilla JavaScript.
+A modern, responsive, and interactive **web-based Calculator** built using **HTML, CSS, and Vanilla JavaScript**.
 
-This project goes beyond basic arithmetic by focusing on clean UI design, keyboard accessibility, real-time updates, and robust error handling — delivering a smooth and intuitive mathematical experience.
+This project goes beyond basic arithmetic by focusing on **clean UI design, keyboard accessibility, real-time updates, and robust error handling**, delivering a smooth and intuitive calculation experience.
 
-🚀 Features
-➕ Core Arithmetic Operations
+---
 
-Addition (+)
+# 🚀 FEATURES
 
-Subtraction (−)
+## ➕ Core Arithmetic Operations
+The calculator supports all basic arithmetic operations:
 
-Multiplication (×)
+- Addition (+)  
+- Subtraction (−)  
+- Multiplication (×)  
+- Division (÷)
 
-Division (÷)
+## 🔄 Real-Time Result Display
+The application dynamically updates the calculation result in real-time, ensuring a **smooth and responsive user experience**.
 
-🔄 Real-Time Result Display
+## ⌨️ Keyboard Support
+Users can perform calculations using their **keyboard**, making the application faster and more accessible.
 
-Instant calculation updates for smooth user interaction.
+## 🧹 Clear & Reset Functions
+- **AC (All Clear)** resets the entire expression  
+- Handles quick **expression clearing and reset**
 
-⌨️ Keyboard Support
+## ⚠️ Error Handling
+The application gracefully handles common calculation errors such as:
 
-Supports keyboard input for faster and more accessible calculations.
+- Invalid mathematical expressions  
+- Division by zero  
+- Unexpected or incorrect user inputs
 
-🧹 Clear & Reset Functions
+## 📱 Fully Responsive Design
+The calculator layout is optimized for different screen sizes:
 
-AC (All Clear)
+- 📱 Mobile Devices  
+- 📲 Tablets  
+- 💻 Desktop Screens  
 
-Expression reset handling
+## 🎨 Minimal & Modern UI
+- Clean and intuitive interface  
+- Well-spaced buttons  
+- Simple and user-friendly design for better usability
 
-⚠️ Error Handling
+---
 
-Gracefully handles:
+# 🛠️ TECH STACK
 
-Invalid expressions
+- **HTML5** – Semantic and structured layout  
+- **CSS3** – Styling and responsive design  
+- **JavaScript (Vanilla)** – Application logic and event handling  
 
-Division by zero
+---
 
-Unexpected input
+# 🧠 CORE CONCEPTS DEMONSTRATED
 
-📱 Fully Responsive Layout
+- DOM Selection & Manipulation  
+- Event Handling (Click & Keyboard Events)  
+- Mathematical Expression Evaluation  
+- Conditional Logic  
+- Error Handling & Input Validation  
+- Responsive Design Principles  
+- UI State Management
 
-Optimized for:
+---
 
-📱 Mobile
+# ⚙️ APPLICATION WORKFLOW
 
-📲 Tablet
+1. User clicks calculator buttons or types using the **keyboard**.  
+2. The input is dynamically displayed on the **screen**.  
+3. JavaScript processes and evaluates the **mathematical expression**.  
+4. The **result is displayed instantly** to the user.  
+5. Any errors are handled without breaking the interface.
 
-💻 Desktop
+---
 
-🎨 Minimal & Modern UI
+# ▶️ RUN LOCALLY
 
-Clean interface with intuitive button layout and balanced spacing.
+1. Clone the repository  
+2. Navigate to the project folder  
+3. Open **index.html** in your browser  
 
-🛠️ Tech Stack
+---
 
-HTML5 – Structured Layout
+# 🎯 PROJECT OBJECTIVE
 
-CSS3 – Styling & Responsive Design
+This project was developed to strengthen:
 
-Vanilla JavaScript – Logic, DOM Manipulation & Event Handling
+- **JavaScript logic building**
+- **DOM manipulation skills**
+- **Event-driven programming concepts**
+- Writing **clean, structured, and maintainable frontend code**
 
-🧠 Core Concepts Demonstrated
+---
 
-DOM Selection & Manipulation
+# 🔮 FUTURE IMPROVEMENTS
 
-Event Handling (Click & Keyboard Events)
+- ➗ Scientific Functions ( %, √, x² )  
+- 🌙 Dark / Light Mode Toggle  
+- 🧾 Calculation History Panel  
+- ✨ UI animations & micro-interactions  
+- 🔢 Better decimal precision handling  
 
-Expression Evaluation Logic
+---
 
-Conditional Statements
+# 📌 PROJECT STATUS
 
-Error Handling & Input Validation
+🟢 **Fully Functional**  
+🔄 Open for feature enhancements
 
-Responsive Design Principles
+---
 
-State Management through UI updates
+# 👨‍💻 AUTHOR
 
-⚙️ Application Workflow
-
-User clicks buttons or types using keyboard.
-
-Input is appended dynamically to the display.
-
-JavaScript evaluates the mathematical expression.
-
-Result is rendered instantly.
-
-Errors are handled gracefully without breaking UI.
-
-▶️ Run Locally
-
-Clone the repository
-
-Navigate to the project folder
-
-Open index.html in your browser
-
-🎯 Project Objective
-
-This project was built to strengthen:
-
-JavaScript logic building
-
-DOM manipulation skills
-
-Event-driven programming concepts
-
-Writing structured and maintainable frontend code
-
-🔮 Future Improvements
-
-➗ Scientific Functions ( %, √, x² )
-
-🌙 Dark / Light Mode Toggle
-
-🧾 Calculation History Panel
-
-✨ Improved UI animations & micro-interactions
-
-🔢 Decimal precision handling
-
-📌 Project Status
-
-🟢 Fully Functional
-🔄 Open for Enhancements
-
-👨‍💻 Author
-
-Vedant Kotkar
+**Vedant Kotkar**  
 Computer Science Student | Frontend Developer
