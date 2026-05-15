@@ -104,12 +104,6 @@ This project was developed to strengthen:
 - ✨ UI animations & micro-interactions  
 - 🔢 Better decimal precision handling  
 
----
-
-# 📌 PROJECT STATUS
-
-🟢 **Fully Functional**  
-🔄 Open for feature enhancements
 
 ---
 
