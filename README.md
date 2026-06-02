@@ -1,112 +1,107 @@
 # 🧮 CALCULATOR APP
 
-A modern, responsive, and interactive **web-based Calculator** built using **HTML, CSS, and Vanilla JavaScript**.
+A modern and responsive **Calculator Application** built using **HTML, CSS, and Vanilla JavaScript**.
 
-This project goes beyond basic arithmetic by focusing on **clean UI design, keyboard accessibility, real-time updates, and robust error handling**, delivering a smooth and intuitive calculation experience.
+The project focuses on **clean user experience, real-time calculations, keyboard accessibility, and robust error handling**, providing a smooth and intuitive calculation experience across different devices.
 
 ---
 
 # 🚀 FEATURES
 
-## ➕ Core Arithmetic Operations
-The calculator supports all basic arithmetic operations:
+## ➕ Arithmetic Operations
 
-- Addition (+)  
-- Subtraction (−)  
-- Multiplication (×)  
-- Division (÷)
+Supports essential mathematical operations:
 
-## 🔄 Real-Time Result Display
-The application dynamically updates the calculation result in real-time, ensuring a **smooth and responsive user experience**.
+* Addition (+)
+* Subtraction (−)
+* Multiplication (×)
+* Division (÷)
 
-## ⌨️ Keyboard Support
-Users can perform calculations using their **keyboard**, making the application faster and more accessible.
+## 🔄 Real-Time Calculation
 
-## 🧹 Clear & Reset Functions
-- **AC (All Clear)** resets the entire expression  
-- Handles quick **expression clearing and reset**
+Dynamically updates and displays user input and calculation results instantly.
+
+## ⌨️ Keyboard Accessibility
+
+Allows users to perform calculations using both:
+
+* Mouse Clicks
+* Keyboard Inputs
+
+## 🧹 Clear & Reset Functionality
+
+* AC (All Clear) button to reset calculations
+* Quick expression clearing for better usability
 
 ## ⚠️ Error Handling
-The application gracefully handles common calculation errors such as:
 
-- Invalid mathematical expressions  
-- Division by zero  
-- Unexpected or incorrect user inputs
+Handles common calculation errors such as:
+
+* Invalid expressions
+* Division by zero
+* Unexpected user inputs
 
 ## 📱 Fully Responsive Design
-The calculator layout is optimized for different screen sizes:
 
-- 📱 Mobile Devices  
-- 📲 Tablets  
-- 💻 Desktop Screens  
+Optimized for multiple screen sizes:
 
-## 🎨 Minimal & Modern UI
-- Clean and intuitive interface  
-- Well-spaced buttons  
-- Simple and user-friendly design for better usability
+* 📱 Mobile Devices
+* 📲 Tablets
+* 💻 Desktop Systems
+
+## 🎨 Modern User Interface
+
+* Clean and minimal design
+* Intuitive button layout
+* User-friendly interaction experience
 
 ---
 
 # 🛠️ TECH STACK
 
-- **HTML5** – Semantic and structured layout  
-- **CSS3** – Styling and responsive design  
-- **JavaScript (Vanilla)** – Application logic and event handling  
+* **HTML5** – Semantic structure
+* **CSS3** – Responsive styling and layouts
+* **JavaScript (Vanilla)** – Application logic and interactivity
 
 ---
 
 # 🧠 CORE CONCEPTS DEMONSTRATED
 
-- DOM Selection & Manipulation  
-- Event Handling (Click & Keyboard Events)  
-- Mathematical Expression Evaluation  
-- Conditional Logic  
-- Error Handling & Input Validation  
-- Responsive Design Principles  
-- UI State Management
+* DOM Manipulation
+* Event Handling
+* Keyboard Events
+* Mathematical Expression Evaluation
+* Conditional Logic
+* Error Handling & Validation
+* Responsive Design Principles
+* State-Based UI Updates
 
 ---
 
 # ⚙️ APPLICATION WORKFLOW
 
-1. User clicks calculator buttons or types using the **keyboard**.  
-2. The input is dynamically displayed on the **screen**.  
-3. JavaScript processes and evaluates the **mathematical expression**.  
-4. The **result is displayed instantly** to the user.  
-5. Any errors are handled without breaking the interface.
+1. User enters values using calculator buttons or keyboard.
+2. Input is displayed dynamically on the calculator screen.
+3. JavaScript processes the mathematical expression.
+4. The result is evaluated and displayed instantly.
+5. Errors are handled gracefully without affecting the user experience.
 
 ---
 
-# ▶️ RUN LOCALLY
+# 🔮 FUTURE ENHANCEMENTS
 
-1. Clone the repository  
-2. Navigate to the project folder  
-3. Open **index.html** in your browser  
-
----
-
-# 🎯 PROJECT OBJECTIVE
-
-This project was developed to strengthen:
-
-- **JavaScript logic building**
-- **DOM manipulation skills**
-- **Event-driven programming concepts**
-- Writing **clean, structured, and maintainable frontend code**
+* ➗ Scientific Calculator Functions
+* 🌙 Dark / Light Mode
+* 🧾 Calculation History
+* ✨ UI Animations & Micro-interactions
+* 🔢 Enhanced Decimal Precision Handling
 
 ---
 
-# 🔮 FUTURE IMPROVEMENTS
+# 👨‍💻 AUTHOR
 
-- ➗ Scientific Functions ( %, √, x² )  
-- 🌙 Dark / Light Mode Toggle  
-- 🧾 Calculation History Panel  
-- ✨ UI animations & micro-interactions  
-- 🔢 Better decimal precision handling  
-
-
----
-
+**Vedant Kotkar**
+Computer Science Student | Frontend Developer
 
 # 👨‍💻 AUTHOR
 
